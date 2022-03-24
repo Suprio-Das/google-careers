@@ -1,0 +1,38 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* sign-in-btn style  */
+.sign-in-btn{
+    background: #1967d2;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Google Sans,Roboto,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.15;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+    text-decoration: none;
+    -webkit-transition: background .15s,color .15s;
+    transition: background .15s,color .15s;
+    padding: 12px 18px 11px;
+    border-radius: 4px;
+    font-size: 14px;
+    letter-spacing: .25px;
+    padding: 10px 24px;
+    margin-left: 0px auto;
+}
+
+/* top navigation styling  */
+.top-navigation{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.178);
+}
+
+p,li{
+    font-family: 'Open Sans', sans-serif;
+}

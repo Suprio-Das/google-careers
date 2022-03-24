@@ -36,3 +36,12 @@ body{
 p,li{
     font-family: 'Open Sans', sans-serif;
 }
+.subtitle-text{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 35px;
+}
+
+/* resume section */
+.resume-list{
+    line-height: 2.5em;
+}
